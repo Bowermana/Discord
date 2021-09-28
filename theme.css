@@ -6,9 +6,9 @@
 
       --channeltextarea-background: #2e2e2e !important;
    
-      --alt-color: 53, 170, 250;
+      --alt-color: #000000;
       --alt-color2: #000000 !important;
-      --alt-color3: 204 !important;/* HSL */
+      --alt-color3: #000000 !important;/* HSL */
       
       --playing-color: var(--alt-color2) !important;
       --spotify-color: var(--alt-color2);
