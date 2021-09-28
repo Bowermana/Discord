@@ -4,10 +4,10 @@
    .theme-dark {
    
 
-      --channeltextarea-background: #000000 !important;
+      --channeltextarea-background: #2e2e2e !important;
    
       --alt-color: 53, 170, 250;
-      --alt-color2: #35AAFA !important;
+      --alt-color2: #000000 !important;
       --alt-color3: 204 !important;/* HSL */
       
       --playing-color: var(--alt-color2) !important;
