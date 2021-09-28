@@ -23,7 +23,7 @@
        --text-normal: #F0F0F0 !important;
        --text-muted: #B3B3B3 !important;
        --text-link: var(--alt-color2) !important;
-       --channels-default: #dddddd !important;
+       --channels-default: #000000 !important;
        --interactive-normal: #F0F0F0 !important;
        --interactive-hover: #F0F0F0 !important;
        --interactive-hover-icons: var(--background-accent2) !important;
