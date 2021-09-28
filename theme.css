@@ -20,7 +20,7 @@
        --channels-headings: var(--alt-color2) !important;
      
        /* Text Colours */
-       --text-normal: #F0F0F0 !important;
+       --text-normal: #000000 !important;
        --text-muted: #B3B3B3 !important;
        --text-link: var(--alt-color2) !important;
        --channels-default: #000000 !important;
